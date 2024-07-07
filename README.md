@@ -1,7 +1,4 @@
 
-Understood! Here's a README that reflects your learning journey and invites others to follow along and refer to your notes:
-
-Learning React
 Welcome to my journey of learning React! This repository contains my notes, code snippets, and other resources that I'm using to learn React.
 
 Overview
