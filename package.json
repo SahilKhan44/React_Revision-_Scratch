@@ -1,0 +1,19 @@
+{
+  "name": "react-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilKhan44/React_Revision-_Scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilKhan44/React_Revision-_Scratch/issues"
+  },
+  "homepage": "https://github.com/SahilKhan44/React_Revision-_Scratch#readme"
+}
