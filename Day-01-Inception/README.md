@@ -1,13 +1,15 @@
 
 Welcome to my journey of learning React! This repository contains my notes, code snippets, and other resources that I'm using to learn React.
 
+React Notes:- https://www.notion.so/React-Notes-f38da511a0854c0fb385487d931d937f
+
 Overview
 I'm currently learning React and using this repository to document my progress. You'll find a variety of resources here, including:
 
 Notes: Detailed notes on different React concepts.
 Code Examples: Practical examples to demonstrate how various React features work.
 Exercises: Solutions to exercises and challenges I encounter along the way.
-Usage
+Usage 
 Feel free to browse through the repository and use any of the resources provided here. If you're also learning React, you might find these notes and examples helpful.
 
 Contributing
