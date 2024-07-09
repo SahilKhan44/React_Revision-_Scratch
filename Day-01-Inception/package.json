@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SahilKhan44/React_Revision-_Scratch/issues"
   },
-  "homepage": "https://github.com/SahilKhan44/React_Revision-_Scratch#readme"
+  "homepage": "https://github.com/SahilKhan44/React_Revision-_Scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
