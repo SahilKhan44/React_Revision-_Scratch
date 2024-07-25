@@ -146,3 +146,5 @@ const AppLayout = () => {
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<AppLayout/>);
 // root.render(heading)
+
+//basically Its not good practise but learning curve make best
